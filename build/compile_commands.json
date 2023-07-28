@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/snake/cmdDemo/build",
+  "command": "C:\\PROGRA~1\\MSY\\clang64\\bin\\CLANG_~1.EXE -IC:/Users/snake/cmdDemo/./include -g -std=gnu++11 -o CMakeFiles\\main.dir\\src\\main.cpp.obj -c C:\\Users\\snake\\cmdDemo\\src\\main.cpp",
+  "file": "C:\\Users\\snake\\cmdDemo\\src\\main.cpp",
+  "output": "CMakeFiles\\main.dir\\src\\main.cpp.obj"
+}
+]

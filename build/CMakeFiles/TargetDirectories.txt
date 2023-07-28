@@ -1,0 +1,3 @@
+C:/Users/snake/cmdDemo/build/CMakeFiles/main.dir
+C:/Users/snake/cmdDemo/build/CMakeFiles/edit_cache.dir
+C:/Users/snake/cmdDemo/build/CMakeFiles/rebuild_cache.dir
